@@ -71,11 +71,11 @@ TABLE OF CONTENTS:-
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
-  --color-main:#0066ff;
-  --color-primary:#0066ff;
+  --color-main:#2C1DA0;
+  --color-primary:#2C1DA0;
   --color-secondary:#02b5ff;
-  --color-blue2: #4a00e1;
-  --color-blue4: #5842bc;
+  --color-blue2: #2C1DA0;
+  --color-blue4: #2C1DA0;
   --color-blue5: #157efb;
   --color-blue6: #6640f4;
   --color-blue7: #8169f1;
@@ -93,7 +93,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%);
+  --color-main-grad: linear-gradient(to right, #2B51AC 0%, #6732BB 100%);
 }
 
 .color-main {
