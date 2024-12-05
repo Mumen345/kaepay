@@ -3806,8 +3806,8 @@ header.style-4 .content .info .title_small {
   color: var(--color-blue4);
 }
 header.style-4 .content .info h1 {
-  font-size: 52px;
-  line-height: 60px;
+  font-size: 4.8rem;
+  line-height: 5.5rem;
   color: #000;
 }
 header.style-4 .content .info h1 span {
