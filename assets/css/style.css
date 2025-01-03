@@ -19141,10 +19141,13 @@ footer.style-2 .text-center {
     margin-bottom: 50px;
   }
   header.style-4 .content .info h1 {
-    font-size: 25px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 55px;
     margin-bottom: 15px !important;
+    text-align: center;
+    width: 100%;
   }
+ 
   header.style-4 .content .info .title_small {
     margin-bottom: 20px !important;
   }
