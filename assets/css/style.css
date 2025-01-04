@@ -73,10 +73,10 @@ TABLE OF CONTENTS:-
 :root {
   --color-main:#2C1DA0;
   --color-primary:#2C1DA0;
-  --color-secondary:#02b5ff;
+  --color-secondary:#2C1DA0;
   --color-blue2: #2C1DA0;
   --color-blue4: #2C1DA0;
-  --color-blue5: #157efb;
+  --color-blue5: #2C1DA0;
   --color-blue6: #6640f4;
   --color-blue7: #8169f1;
   --color-blue8: #291554;
@@ -87,8 +87,8 @@ TABLE OF CONTENTS:-
   --color-orange2:#f6c463;
   --color-orange3:#f9a41f;
   --color-orange4:#EC6326;
-  --color-red1:#cc2131;
-  --color-red2:#ef1552;
+  --color-red1:#2C1DA0;
+  --color-red2:#2C1DA0;
   --color-green:#00c057;
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
@@ -11613,7 +11613,7 @@ header.style-16 .screen-img .diamond {
 ================================================================*/
 /* --------------- screenshots style-4 --------------- */
 .screenshots.style-4 {
-  background-color: #f0eff5;
+  background-color: #f8f9fb;
   overflow: hidden;
   padding-top: 100px;
   position: relative;
